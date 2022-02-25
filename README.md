@@ -1,6 +1,6 @@
 # Kaggle-Tutorial-Intro-to-Machine-Learning
 
-## Lesson
+### Lesson
 
 ### 1.How Models Work: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/HowModelsWork.md)
 
