@@ -12,5 +12,7 @@
 
 ### 5. Underfitting and Overfitting: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/UnderfittingAndOverfitting.ipynb)   [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/exercise-underfitting-and-overfitting.ipynb)
 
+### 6. Random Forests: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/RandomForests.ipynb)   [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/exercise-random-forests.ipynb)
+
 
 
