@@ -8,3 +8,5 @@
 
 ### 3. Your First Machine Learning Model: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/YourFirstMachineLearningModel.md)   [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/exercise-your-first-machine-learning-model.ipynb)
 
+### 4. Model Validation: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/ModelValidation.md)   [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/exercise-model-validation.ipynb)
+

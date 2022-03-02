@@ -19,11 +19,10 @@ melbourne_file_path = '../input/melbourne-housing-snapshot/melb_data.csv'
 melbourne_data = pd.read_csv(melbourne_file_path)
 melbourne_data.columns
 ```
+
 ```
 Index(['Suburb', 'Address', 'Rooms', 'Type', 'Price', 'Method', 'SellerG', 'Date', 'Distance', 'Postcode', 'Bedroom2', 'Bathroom', 'Car', 'Landsize', 'BuildingArea', 'YearBuilt', 'CouncilArea', 'Lattitude', 'Longtitude', 'Regionname', 'Propertycount'], dtype='object')
 ```
-
-
 
 <br/>
 
@@ -103,7 +102,8 @@ X.head()
 | 7 | 2     | 1.0      | 256.0    | -37.8060  | 144.9954   |
 
 이러한 명령어들로 당신의 데이터를 시각적으로 확인하함은 데이터사이언티스트에게 중요한 부분이다. 당신은 자주 추후 검토할만한 데이터셋안에서 놀라움을 발견할 수 있을 것이다.
-___
+
+---
 
 ### 당신의 모델을 빌드하기
 
@@ -161,7 +161,4 @@ The predictions are
 ### 당신의 차례
 
 **[Model Building Exercise](exercise-your-first-machine-learning-model.ipynb)**
-
-
-
 
