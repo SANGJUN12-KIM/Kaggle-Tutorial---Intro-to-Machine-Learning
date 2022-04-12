@@ -15,4 +15,3 @@
 ### 6. Random Forests: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/RandomForests.ipynb)   [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/exercise-random-forests.ipynb)
 
 ### 7. Machine Learning Competitions: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/MachineLearningCompetitions.md)   [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Intro-to-Machine-Learning/blob/main/exercise-machine-learning-competitions.ipynb)
-
